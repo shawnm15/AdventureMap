@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+/*
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 50px;
+	text-align: center;
+}
+
+form { 
+	margin: 0 auto; 
+	width:500px;
+}
+
+p {
+	font-family: 'Robot', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+*/
+
+.centered{
+    margin: 0 auto;
+}

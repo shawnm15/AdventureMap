@@ -1,0 +1,8 @@
+Boston:80
+New York City:95
+Philadelphia:70
+Baltimore:60
+Washington:95
+Charlotte:45
+Atlanta:75
+Columbus:75
